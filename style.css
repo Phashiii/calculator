@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.screen{
+    height: 40px;
+    background-color: rgb(212, 104, 104);
+    width: 200px;
+}
+.buttons{
+    display: flex;
+    flex-direction:row;
+    width: 170px;
+}
+.numbers{
+    display: flex;
+    flex-direction: column;
+}
+.numbers_column{
+    display: flex;
+}
+
